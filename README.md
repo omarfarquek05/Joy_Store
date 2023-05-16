@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+joy_store link : https://joy-store.vercel.app/
+sanity link : https://joy-store.sanity.studio/
+Test payment card no : 4242 4242 4242 4242
+5/23
+cvc : 123
+
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](ht
+tps://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
